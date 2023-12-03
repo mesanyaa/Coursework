@@ -688,6 +688,32 @@ a
             span
                 color: $color-orange
 
+.products-section
+    &__container
+        margin-top: 20px
+    &__header
+        display: flex
+        justify-content: space-between
+        margin-bottom: 20px
+    &__title
+        font-size: 48px
+    &__number-and-total
+        display: flex;
+        justify-content: space-between
+        align-items: center
+    &__number
+        font-size: 24px
+        margin-right: 60px
+    &__total
+        color: $color-orange
+        font-size: 24px
+        span
+            color: $color-orange
+    &__line
+        width: 100%
+        height: 1px
+        background: $color-black
+
 
 @media (max-width: 1199px)
     .container
@@ -739,6 +765,9 @@ a
             margin-bottom: 20px
             p
                 font-size: 20px
+    .products-section
+        &__title
+            font-size: 32px
 
 @media (max-width: 991px)
     .container
@@ -1006,12 +1035,20 @@ a
         &__products-item
             p
                 font-size: 12px
+    .products-section
+        &__title
+            font-size: 24px
+        &__number
+            font-size: 20px
+        &__total
+            font-size: 20px
 
 @media (max-width: 575px)
     .container
         width: 100%
     .main-section
         min-height: 335px
+        margin-bottom: 5px
         &__title
             font-size: 16px
         &__text
@@ -1165,3 +1202,11 @@ a
             width: 99%
             img
                 width: 70%
+    .products-section
+        &__title
+            font-size: 16px
+        &__number
+            font-size: 12px
+            margin-right: 15px
+        &__total
+            font-size: 12px
