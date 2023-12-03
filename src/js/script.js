@@ -105,19 +105,71 @@ const selectedCategory = document.getElementById("selectedCategory");
 showAll.addEventListener("click", function () {
   // Устанавливаем новый текст в параграф
   selectedCategory.textContent = "Не выбрана";
+
+  var elements = document.querySelectorAll(
+    ".categories-section__products-item"
+  );
+  for (var i = 0; i < elements.length; i++) {
+    elements[i].style.display = "block";
+  }
 });
 
 showLight.addEventListener("click", function () {
   // Устанавливаем новый текст в параграф
   selectedCategory.textContent = "Лёгкие ароматы";
+
+  var elementsPersistent = document.querySelectorAll(".persistent");
+  for (var i = 0; i < elementsPersistent.length; i++) {
+    elementsPersistent[i].style.display = "none";
+  }
+
+  var elementsMasculine = document.querySelectorAll(".masculine");
+  for (var i = 0; i < elementsMasculine.length; i++) {
+    elementsMasculine[i].style.display = "none";
+  }
+
+  var elementsLight = document.querySelectorAll(".light");
+  for (var i = 0; i < elementsLight.length; i++) {
+    elementsLight[i].style.display = "block";
+  }
 });
 
 showPersistent.addEventListener("click", function () {
   // Устанавливаем новый текст в параграф
   selectedCategory.textContent = "Стойкие ароматы";
+
+  var elementsPersistent = document.querySelectorAll(".persistent");
+  for (var i = 0; i < elementsPersistent.length; i++) {
+    elementsPersistent[i].style.display = "block";
+  }
+
+  var elementsMasculine = document.querySelectorAll(".masculine");
+  for (var i = 0; i < elementsMasculine.length; i++) {
+    elementsMasculine[i].style.display = "none";
+  }
+
+  var elementsLight = document.querySelectorAll(".light");
+  for (var i = 0; i < elementsLight.length; i++) {
+    elementsLight[i].style.display = "none";
+  }
 });
 
 showMasculine.addEventListener("click", function () {
   // Устанавливаем новый текст в параграф
   selectedCategory.textContent = "Мужские ароматы";
+
+  var elementsPersistent = document.querySelectorAll(".persistent");
+  for (var i = 0; i < elementsPersistent.length; i++) {
+    elementsPersistent[i].style.display = "none";
+  }
+
+  var elementsMasculine = document.querySelectorAll(".masculine");
+  for (var i = 0; i < elementsMasculine.length; i++) {
+    elementsMasculine[i].style.display = "block";
+  }
+
+  var elementsLight = document.querySelectorAll(".light");
+  for (var i = 0; i < elementsLight.length; i++) {
+    elementsLight[i].style.display = "none";
+  }
 });

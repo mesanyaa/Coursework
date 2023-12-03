@@ -628,10 +628,13 @@ a
         margin: 0 auto
 
 .categories-section
-    min-height: 800px
+    // min-height: 600px
+    margin-bottom: 10px
     &__container
         display: flex
+        justify-content: space-between
     &__left-wrapper
+        text-align: center
         width: 33%
     &__title
         color: $color-orange
@@ -658,13 +661,33 @@ a
     &__selected-category-box
         display: flex
         justify-content: space-between
+        margin-bottom: 35px
         p
-            font-size: 32px
+            font-size: 28px
             margin: 0 30px 0 30px
+            transition: opacity 0.5s ease-in-out
         p:last-child
             color: $color-yellow
     &__right-wrapper
-        width: 67%
+        width: 65%
+    &__products-box
+        width: 100%
+        display: flex
+        flex-wrap: wrap
+    &__products-item
+        // display: none;
+        width: 50%
+        text-align: center
+        margin-bottom: 30px
+        img
+            width: 98%
+            margin-bottom: 15px
+        p
+            font-size: 24px
+            font-weight: bold
+            span
+                color: $color-orange
+
 
 @media (max-width: 1199px)
     .container
@@ -711,6 +734,11 @@ a
             margin-bottom: 10px
         p
             font-size: 20px
+    .categories-section
+        &__products-item
+            margin-bottom: 20px
+            p
+                font-size: 20px
 
 @media (max-width: 991px)
     .container
@@ -777,12 +805,31 @@ a
     .plus-minus-toggle
         left: -29px
     .catalog-main-section
+        min-height: 550px
         &__nav-container
-            margin-bottom: 20px
+            margin-bottom: 25px
         &__img-box
-            margin-top: 20px
+            margin-top: 25px
         &__img
             width: 70%
+    .categories-section
+        margin-top: 10px
+        &__title
+            font-size: 26px
+            margin-bottom: 25px
+        &__button
+            font-size: 22px
+        &__selected-category-box
+            margin-bottom: 20px
+            p
+                margin: 0 15px
+                font-size: 20px
+        &__products-item
+            margin-bottom: 10px
+            img
+                margin-bottom: 10px
+            p
+                font-size: 16px
     .footer
         &__container
             height: 245px
@@ -945,6 +992,20 @@ a
             width: 220px
         p
             font-size: 16px
+    .catalog-main-section
+        min-height: 450px
+    .categories-section
+        &__title
+            font-size: 20px
+        &__button
+            font-size: 16px
+        &__selected-category-box 
+            p
+                font-size: 16px
+                margin: 0
+        &__products-item
+            p
+                font-size: 12px
 
 @media (max-width: 575px)
     .container
@@ -1085,3 +1146,22 @@ a
             width: 100%
         &__right-wrapper
             display: none
+    .catalog-main-section
+        min-height: 340px
+    .categories-section
+        &__title
+            font-size: 16px
+            margin-bottom: 10px
+        &__button
+            font-size: 8px
+            padding: 7px 0
+        &__selected-category-box
+            margin-left: 7px
+            margin-bottom: 10px
+            flex-direction: column
+            p
+                font-size: 12px
+        &__products-item
+            width: 99%
+            img
+                width: 70%
