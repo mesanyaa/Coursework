@@ -689,6 +689,7 @@ a
                 color: $color-orange
 
 .products-section
+    min-height: 400px
     &__container
         margin-top: 20px
     &__header
@@ -698,7 +699,7 @@ a
     &__title
         font-size: 48px
     &__number-and-total
-        display: flex;
+        display: flex
         justify-content: space-between
         align-items: center
     &__number
@@ -713,7 +714,49 @@ a
         width: 100%
         height: 1px
         background: $color-black
+        margin-bottom: 20px
 
+.products-container
+    font-size: 24px
+    span
+        font-size: 24px
+    ion-icon
+        cursor: pointer
+        font-size: 32px
+        transition: 0.5s ease-in-out
+        ion-icon: hover
+        transform: scale(1.05)
+    ion-icon[name="remove-circle-outline"]
+        margin-right: 10px
+    .quantity
+        span
+            font-size: 24px
+            margin-right: 10px
+.product
+    display: flex
+    justify-content: space-between
+    align-items: center
+    margin-bottom: 20px
+.product-name
+    width: 200px
+.quantity
+    display: flex
+    align-items: center
+    justify-content: space-between
+.total
+    color: $color-orange
+.to-order-button
+    border: none
+    cursor: pointer
+    background: $color-yellow
+    color: $color-white
+    padding: 10px
+    border-radius: 4px
+    font-size: 24px
+    float: right
+    transition: 0.5s ease-in-out
+.to-order-button:hover
+    transform: scale(1.1)
 
 @media (max-width: 1199px)
     .container
@@ -908,6 +951,20 @@ a
             width: 220px
         p
             font-size: 18px
+    .products-container
+        span
+            font-size: 16px
+        ion-icon
+            font-size: 20px
+        .quantity
+            span
+                font-size: 16px
+    .price
+        font-size: 16px
+    .total
+        font-size: 16px
+    .product-name
+        width: fit-content
 
 @media (max-width: 767px)
     .container
@@ -1028,7 +1085,7 @@ a
             font-size: 20px
         &__button
             font-size: 16px
-        &__selected-category-box 
+        &__selected-category-box
             p
                 font-size: 16px
                 margin: 0
@@ -1036,12 +1093,16 @@ a
             p
                 font-size: 12px
     .products-section
+        min-height: 250px
         &__title
             font-size: 24px
         &__number
             font-size: 20px
         &__total
             font-size: 20px
+    .product
+        img
+            width: 25%
 
 @media (max-width: 575px)
     .container
@@ -1210,3 +1271,9 @@ a
             margin-right: 15px
         &__total
             font-size: 12px
+    .products-section
+        min-height: 200px
+    .product
+        flex-direction: column
+        justify-content: center
+        // align-items: center
