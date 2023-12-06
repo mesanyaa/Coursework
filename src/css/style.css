@@ -1644,846 +1644,868 @@ a {
   transform: scale(1.1);
 }
 
+/* line 766, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+.group-and-fio {
+  width: fit-content;
+  margin: 0 auto;
+  font-size: 32px;
+  font-weight: bold;
+  color: #B85339;
+  text-align: center;
+}
+
 @media (max-width: 1199px) {
-  /* line 767, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 775, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .container {
     max-width: 960px;
   }
-  /* line 769, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 777, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section {
     min-height: 700px;
   }
-  /* line 771, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 779, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section {
     min-height: 700px;
     margin-bottom: 15px;
   }
-  /* line 774, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 782, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section {
     min-height: 600px;
     margin-bottom: 15px;
   }
-  /* line 777, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 785, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__text-box {
     left: 65px;
   }
-  /* line 779, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 787, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section {
     min-height: 245px;
     margin-bottom: 15px;
   }
-  /* line 784, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 792, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper p {
     margin-bottom: 10px;
   }
-  /* line 786, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 794, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper p span {
     margin-bottom: 10px;
   }
-  /* line 789, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 797, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__text-box {
     margin: 30px 50px 0 50px;
   }
-  /* line 791, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 799, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__chose-volume {
     margin-bottom: 15px;
   }
-  /* line 794, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 802, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__buttons button {
     padding: 10px;
     font-size: 12px;
   }
-  /* line 797, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 805, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .plus-minus-toggle {
     left: -33px;
   }
-  /* line 800, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 808, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__container {
     min-height: 700px;
   }
-  /* line 802, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 810, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slidecontainer {
     width: 885px;
   }
-  /* line 805, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 813, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide img {
     height: auto;
     width: 295px;
     margin-bottom: 10px;
   }
-  /* line 809, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 817, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide p {
     font-size: 20px;
   }
-  /* line 812, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 820, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item {
     margin-bottom: 20px;
   }
-  /* line 814, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 822, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item p {
     font-size: 20px;
   }
-  /* line 817, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 825, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__title {
     font-size: 32px;
   }
 }
 
 @media (max-width: 991px) {
-  /* line 821, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 829, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .container {
     max-width: 720px;
   }
-  /* line 823, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 831, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section {
     min-height: 575px;
   }
-  /* line 825, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 833, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__text-box {
     top: 55px;
     left: 55px;
   }
-  /* line 828, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 836, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section {
     min-height: 575px;
   }
-  /* line 830, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 838, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__text {
     height: 150px;
   }
-  /* line 832, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 840, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__text p {
     font-size: 18px;
   }
-  /* line 835, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 843, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__cards-item p {
     font-size: 16px;
   }
-  /* line 838, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 846, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .cards-item__hidden-description {
     font-size: 11px;
   }
-  /* line 841, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 849, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__left-wrapper {
     width: 60%;
   }
-  /* line 843, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 851, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__text-box {
     top: 115px;
     left: 45px;
   }
-  /* line 846, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 854, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__text {
     width: 75%;
     font-size: 12px;
   }
-  /* line 850, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 858, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__title {
     font-size: 24px;
   }
-  /* line 852, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 860, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__text {
     font-size: 16px;
   }
-  /* line 854, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 862, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__button {
     padding: 10px;
   }
-  /* line 857, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 865, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__container {
     min-height: 500px;
   }
-  /* line 859, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 867, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__text-box {
     margin: 25px 40px 0 40px;
   }
-  /* line 863, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 871, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__price {
     font-size: 16px;
   }
-  /* line 865, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 873, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__price span {
     font-size: 12px;
   }
-  /* line 867, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 875, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__description {
     width: 85%;
     font-size: 12px;
     margin-bottom: 15px;
   }
-  /* line 872, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 880, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__chose-volume label {
     font-size: 12px;
   }
-  /* line 875, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 883, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__buttons button {
     font-size: 10px;
     padding: 7px;
   }
-  /* line 878, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 886, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__buttons--orange {
     margin-right: 10px;
   }
-  /* line 880, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 888, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .spoiler_title {
     padding: 15px 0;
   }
-  /* line 882, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 890, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .plus-minus-toggle {
     left: -29px;
   }
-  /* line 884, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 892, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section {
     min-height: 550px;
   }
-  /* line 886, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 894, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section__nav-container {
     margin-bottom: 25px;
   }
-  /* line 888, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 896, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section__img-box {
     margin-top: 25px;
   }
-  /* line 890, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 898, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section__img {
     width: 70%;
   }
-  /* line 892, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 900, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section {
     margin-top: 10px;
   }
-  /* line 894, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 902, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__title {
     font-size: 26px;
     margin-bottom: 25px;
   }
-  /* line 897, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 905, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__button {
     font-size: 22px;
   }
-  /* line 899, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 907, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__selected-category-box {
     margin-bottom: 20px;
   }
-  /* line 901, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 909, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__selected-category-box p {
     margin: 0 15px;
     font-size: 20px;
   }
-  /* line 904, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 912, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item {
     margin-bottom: 10px;
   }
-  /* line 906, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 914, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item img {
     margin-bottom: 10px;
   }
-  /* line 908, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 916, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item p {
     font-size: 16px;
   }
-  /* line 911, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 919, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__container {
     height: 245px;
   }
-  /* line 914, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 922, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__logo h5 {
     font-size: 25px;
   }
-  /* line 916, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 924, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__logo-line {
     width: 140px;
   }
-  /* line 919, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 927, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__contacts p {
     font-size: 16px;
   }
-  /* line 921, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 929, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__contacts a {
     font-size: 16px;
   }
-  /* line 924, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 932, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__socials p {
     font-size: 16px;
   }
-  /* line 928, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 936, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer .icons-box__item img {
     width: 32px;
   }
-  /* line 934, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 942, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper {
     padding: 3px 0 3px 0;
   }
-  /* line 937, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 945, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper p {
     margin-bottom: 5px;
     font-size: 24px;
   }
-  /* line 940, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 948, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper p span {
     margin-bottom: 5px;
   }
-  /* line 942, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 950, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper input {
     margin-bottom: 16px;
   }
-  /* line 944, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 952, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper button {
     margin-bottom: 16px;
     padding: 7px 30px 7px 30px;
   }
-  /* line 948, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 956, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__container {
     min-height: 520px;
   }
-  /* line 950, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 958, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__text-box {
     margin-bottom: 30px;
   }
-  /* line 952, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 960, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slidecontainer {
     width: 660px;
   }
-  /* line 955, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 963, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide img {
     width: 220px;
   }
-  /* line 957, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 965, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide p {
     font-size: 18px;
   }
-  /* line 960, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 968, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-container span {
     font-size: 16px;
   }
-  /* line 962, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 970, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-container ion-icon {
     font-size: 20px;
   }
-  /* line 965, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 973, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-container .quantity span {
     font-size: 16px;
   }
-  /* line 967, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 975, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .price {
     font-size: 16px;
   }
-  /* line 969, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 977, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .total {
     font-size: 16px;
   }
-  /* line 971, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 979, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-name {
     width: fit-content;
+  }
+  /* line 981, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  .group-and-fio {
+    font-size: 24px;
   }
 }
 
 @media (max-width: 767px) {
-  /* line 975, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 985, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .container {
     max-width: 540px;
   }
-  /* line 978, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 988, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__container {
     height: 175px;
   }
-  /* line 980, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 990, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__footer-background {
     height: 175px;
   }
-  /* line 984, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 994, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .nav-menu__list-item a {
     width: 60px;
   }
-  /* line 986, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 996, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .nav-menu__list-item a img {
     width: 32px;
   }
-  /* line 988, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 998, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .nav-menu__list-item a p {
     font-size: 12px;
   }
-  /* line 990, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1000, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section {
     min-height: 470px;
   }
-  /* line 993, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1003, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__header h1 {
     font-size: 24px;
   }
-  /* line 995, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1005, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__title {
     font-size: 24px;
   }
-  /* line 997, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1007, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__title-line {
     margin-bottom: 25px;
   }
-  /* line 999, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1009, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__text {
     font-size: 12px;
     width: 60%;
   }
-  /* line 1004, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1014, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__search-form-container button img {
     width: 20px;
   }
-  /* line 1006, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1016, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__search-form-container input {
     font-size: 12px;
     padding-left: 15px;
   }
-  /* line 1009, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1019, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section {
     min-height: 440px;
     margin-bottom: 0px;
   }
-  /* line 1012, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1022, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__text {
     height: 120px;
   }
-  /* line 1014, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1024, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__text p {
     font-size: 16px;
   }
-  /* line 1017, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1027, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__cards-item p {
     font-size: 12px;
   }
-  /* line 1020, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1030, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .cards-item__hidden-description {
     font-size: 8px;
     padding: 10px 10px 0 10px;
   }
-  /* line 1024, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1034, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__text-box {
     top: 30px;
   }
-  /* line 1027, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1037, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .right-wrapper__img {
     height: 328px;
   }
-  /* line 1030, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1040, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper {
     height: 328px;
   }
-  /* line 1032, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1042, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper p {
     font-size: 12px;
   }
-  /* line 1034, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1044, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper p span {
     font-size: 16px;
   }
-  /* line 1036, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1046, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper input {
     font-size: 12px;
     padding: 5px 0 5px 10px;
   }
-  /* line 1039, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1049, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper button {
     font-size: 12px;
     padding: 7px 20px 7px 20px;
     margin-bottom: 10px;
   }
-  /* line 1044, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1054, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__text-box {
     margin: 20px 30px 0 30px;
   }
-  /* line 1046, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1056, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__name {
     font-size: 16px;
   }
-  /* line 1048, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1058, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__volume {
     font-size: 10px;
   }
-  /* line 1050, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1060, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__price {
     font-size: 12px;
   }
-  /* line 1053, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1063, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__buttons button {
     font-size: 8px;
     padding: 5px;
   }
-  /* line 1056, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1066, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__buttons--orange {
     margin-right: 1px;
   }
-  /* line 1058, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1068, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .spoiler_title {
     font-size: 12px;
     padding: 10px 0;
   }
-  /* line 1061, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1071, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .plus-minus-toggle:before,
   .plus-minus-toggle:after {
     width: 12px;
   }
-  /* line 1064, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1074, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .plus-minus-toggle {
     left: -20px;
   }
-  /* line 1067, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1077, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .spoiler_content p {
     font-size: 12px;
   }
-  /* line 1069, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1079, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .spoiler_wrap.active .spoiler_content {
     padding-bottom: 5px;
   }
-  /* line 1072, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1082, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__text-box {
     font-size: 18px;
     height: 75px;
     line-height: 75px;
   }
-  /* line 1077, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1087, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__container {
     min-height: 490px;
   }
-  /* line 1079, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1089, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slidecontainer {
     width: 440px;
   }
-  /* line 1082, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1092, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide img {
     width: 220px;
   }
-  /* line 1084, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1094, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide p {
     font-size: 16px;
   }
-  /* line 1086, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1096, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section {
     min-height: 450px;
   }
-  /* line 1089, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1099, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__title {
     font-size: 20px;
   }
-  /* line 1091, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1101, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__button {
     font-size: 16px;
   }
-  /* line 1094, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1104, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__selected-category-box p {
     font-size: 16px;
     margin: 0;
   }
-  /* line 1098, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1108, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item p {
     font-size: 12px;
   }
-  /* line 1100, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1110, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section {
     min-height: 250px;
   }
-  /* line 1102, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1112, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__title {
     font-size: 24px;
   }
-  /* line 1104, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1114, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__number {
     font-size: 20px;
   }
-  /* line 1106, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1116, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__number-in-wish {
     font-size: 20px;
   }
-  /* line 1108, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1118, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__total {
     font-size: 20px;
   }
-  /* line 1111, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1121, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product img {
     width: 25%;
+  }
+  /* line 1123, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  .group-and-fio {
+    font-size: 16px;
   }
 }
 
 @media (max-width: 575px) {
-  /* line 1115, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1127, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .container {
     width: 100%;
   }
-  /* line 1117, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1129, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section {
     min-height: 335px;
     margin-bottom: 5px;
   }
-  /* line 1120, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1132, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__title {
     font-size: 16px;
   }
-  /* line 1122, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1134, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__text {
     font-size: 8px;
   }
-  /* line 1124, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1136, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__text-box {
     top: 18px;
     left: 21px;
   }
-  /* line 1128, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1140, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__search-form-container input {
     font-size: 10px;
     padding-left: 10px;
   }
-  /* line 1131, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1143, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__search-form-container button {
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  /* line 1136, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1148, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .main-section__search-form-container button img {
     width: 15px;
   }
-  /* line 1140, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1152, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .nav-menu__list-item a {
     width: 45px;
   }
-  /* line 1142, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1154, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .nav-menu__list-item a img {
     width: 28px;
   }
-  /* line 1144, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1156, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .nav-menu__list-item a p {
     font-size: 9px;
   }
-  /* line 1146, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1158, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section {
     min-height: 335px;
   }
-  /* line 1149, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1161, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__text p {
     font-size: 12px;
     margin: 0 50px 0 50px;
   }
-  /* line 1153, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1165, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__cards-item p {
     font-size: 8px;
   }
-  /* line 1155, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1167, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section__cards-item img {
     margin-bottom: 10px;
   }
-  /* line 1158, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1170, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .second-section .cards-item__hidden-description {
     height: 70px;
     padding: 3px;
     font-size: 5px;
   }
-  /* line 1162, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1174, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section {
     min-height: 300px;
   }
-  /* line 1164, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1176, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__left-wrapper {
     display: none;
   }
-  /* line 1166, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1178, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__right-wrapper {
     width: 100%;
     height: 275px;
   }
-  /* line 1169, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1181, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__title {
     font-size: 24px;
   }
-  /* line 1171, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1183, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__text {
     font-size: 10px;
   }
-  /* line 1173, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1185, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .third-section__text-box {
     top: 20px;
     left: 33px;
   }
-  /* line 1176, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1188, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section {
     min-height: 170px;
   }
-  /* line 1178, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1190, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__text-box {
     height: 170px;
   }
-  /* line 1180, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1192, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__title {
     font-size: 16px;
     margin-bottom: 10px;
   }
-  /* line 1183, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1195, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__text {
     font-size: 12px;
     margin: 0 50px 10px 50px;
   }
-  /* line 1186, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1198, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .fourth-section__button {
     font-size: 10px;
     padding: 7px;
   }
-  /* line 1190, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1202, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__container {
     display: flex;
     flex-direction: column;
   }
-  /* line 1193, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1205, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__right-wrapper {
     width: 100%;
   }
-  /* line 1195, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1207, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product-card__left-wrapper {
     width: 100%;
   }
-  /* line 1198, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1210, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__text-box {
     font-size: 12px;
     height: 60px;
     line-height: 60px;
   }
-  /* line 1202, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1214, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .another-products__container {
     min-height: 490px;
   }
-  /* line 1204, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1216, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slidecontainer {
     width: 200px;
   }
-  /* line 1207, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1219, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide img {
     width: 200px;
   }
-  /* line 1209, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1221, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-slide p {
     font-size: 14px;
   }
-  /* line 1211, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1223, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-prev {
     left: -15px;
   }
-  /* line 1213, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1225, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .slick-next {
     right: -15px;
   }
-  /* line 1216, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1228, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section__nav-container {
     margin-bottom: 10px;
   }
-  /* line 1218, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1230, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section__img-box {
     margin-top: 10px;
   }
-  /* line 1220, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1232, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section__img {
     width: 100%;
   }
-  /* line 1223, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1235, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__container {
     flex-direction: column;
     height: fit-content;
     padding: 7px 0 7px 0;
   }
-  /* line 1227, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1239, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__footer-background {
     height: 240px;
   }
-  /* line 1229, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1241, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__item {
     height: fit-content;
   }
-  /* line 1232, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1244, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__logo h5 {
     font-size: 20px;
   }
-  /* line 1234, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1246, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__logo-line {
     width: 140px;
   }
-  /* line 1237, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1249, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__contacts p {
     font-size: 12px;
     margin-bottom: 0;
   }
-  /* line 1240, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1252, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__contacts a {
     font-size: 12px;
   }
-  /* line 1243, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1255, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer__socials p {
     font-size: 12px;
   }
-  /* line 1247, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1259, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .footer .icons-box__item img {
     width: 24px;
   }
-  /* line 1250, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1262, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__left-wrapper {
     width: 100%;
   }
-  /* line 1252, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1264, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .sign-up-section__right-wrapper {
     display: none;
   }
-  /* line 1254, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1266, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .catalog-main-section {
     min-height: 340px;
   }
-  /* line 1257, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1269, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__title {
     font-size: 16px;
     margin-bottom: 10px;
   }
-  /* line 1260, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1272, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__button {
     font-size: 8px;
     padding: 7px 0;
   }
-  /* line 1263, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1275, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__selected-category-box {
     margin-left: 7px;
     margin-bottom: 10px;
     flex-direction: column;
   }
-  /* line 1267, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1279, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__selected-category-box p {
     font-size: 12px;
   }
-  /* line 1269, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1281, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item {
     width: 99%;
   }
-  /* line 1271, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1283, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .categories-section__products-item img {
     width: 70%;
   }
-  /* line 1274, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1286, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__title {
     font-size: 16px;
   }
-  /* line 1276, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1288, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__number {
     font-size: 12px;
     margin-right: 15px;
   }
-  /* line 1279, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1291, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__number-in-wish {
     font-size: 12px;
     margin-right: 15px;
   }
-  /* line 1282, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1294, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section__total {
     font-size: 12px;
   }
-  /* line 1284, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1296, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .products-section {
     min-height: 300px;
   }
-  /* line 1286, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  /* line 1298, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
   .product {
     flex-direction: column;
     justify-content: center;
+  }
+  /* line 1302, ../../../OneDrive/Рабочий стол/универ/3_семестр/Frontend/Coursework/src/sass/style.sass */
+  .group-and-fio {
+    font-size: 12px;
   }
 }
 
